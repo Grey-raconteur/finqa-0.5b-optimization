@@ -1,0 +1,87 @@
+
+================================================================================
+FINQA LAYER 3: INNOVATION & RETRIEVAL GROUNDING REPORT
+================================================================================
+Model: Qwen 2.5 0.5B Instruct
+Objective: Triple Baseline Performance via Structural Data Engineering
+Baseline Accuracy: 9.0%
+Final Layer 3 Accuracy: 26.0%
+
+--------------------------------------------------------------------------------
+1. THE RETRIEVAL CHALLENGE: "BAD EYES" FOR GRIDS
+--------------------------------------------------------------------------------
+After Layer 2, I knew that the 0.5B model wasn't failing at math; it was 
+failing at retrieval. It had "bad eyes" for the standard 2D grid layout. 
+Because a small model’s attention is limited, it would often lose the link 
+between a header (like "Net Revenue") and a value (like "5829") when 
+the table was linearized into a long string of pipes and dashes. 
+
+I realized I needed to stop the "spatial drift" and keep the model's eyes 
+on the prize. Following is a list of steps and methods I implemented to 
+finally reach 26% accuracy.
+
+--------------------------------------------------------------------------------
+2. THE EVOLUTION OF THE INNOVATION
+--------------------------------------------------------------------------------
+
+STEP 1: THE FIRST ATTEMPT (SEMANTIC TABLE TRANSLITERATION)
+I started with a bold idea: Semantic Table Transliteration (STT). I 
+programmatically rewrote the entire table into full sentences (e.g., 
+"The Net Revenue for 2015 was 5829").
+- The Logic: I wanted to play to the model's strengths as a language processor 
+  by turning a 2D Spatial Grid into a 1D Semantic Stream. 
+- The Fail: Accuracy dropped to 8.0%. I realized I had created "semantic word 
+  salad." The repetitive phrases cluttered the context, causing the model to 
+  get "lost in the noise."
+
+STEP 2: THE CORRECTION (COMPRESSION & TWO-PASS)
+I quickly pivoted. I tried Compressed STT (short key-value pairs) and then 
+a Two-Pass Reasoning approach where I asked the model to extract numbers 
+before doing math. 
+- The Fail: Accuracy plummeted to 5.0% and then 1.0%. 
+- The Insights: I discovered two critical things. First, the model has a tiny 
+  "processing budget." If the prompt is too complex, it spends all its energy 
+  reading instructions and has none left for math. Second, my evaluation script 
+  was failing because the model outputted percentages (9.6%) while the script 
+  expected decimals (0.096).
+
+STEP 3: THE WINNING INNOVATION (ROW-HEADER INJECTION)
+I went back to basics with a "less is more" strategy. I implemented 
+Row-Header Injection combined with Strict Extraction. I modified the table 
+grid so that the metric name was repeated at the start of every single row 
+(e.g., | Metric: Net Revenue | 5829 | 5735 |). 
+- The Logic: This provided a "constant anchor." No matter where the model was 
+  looking in the row, the label was right there. It didn't have to "remember" 
+  the header from the top of the page. 
+- The Implementation: I forced the model to end every response with a 
+  "Final Answer:" tag and added a code-level fix to automatically convert 
+  percentages to decimals during evaluation.
+
+--------------------------------------------------------------------------------
+3. FINAL COMPARISON TABLES
+--------------------------------------------------------------------------------
+
+TABLE A: ACCURACY COMPARISON
+| Stage                 | Execution Accuracy | Improvement (vs Baseline) |
+|-----------------------|--------------------|---------------------------|
+| Baseline (Layer 2)    | 9.0%               | -                         |
+| Step 1 (STT)          | 8.0%               | -11.1%                    |
+| Step 2 (Two-Pass)     | 1.0%               | -88.9%                    |
+| STEP 3 (FINAL)        | 26.0%              | +188.9%                   |
+
+TABLE B: ERROR CATEGORY DISTRIBUTION
+| Error Category   | Baseline Count | Layer 3 Count | Trend       |
+|------------------|----------------|----------------|-------------|
+| Correct          | 9              | 26             | +189%       |
+| Retrieval Error  | 35             | 23             | -34%        |
+| Operation Error  | 55             | 49             | -11%        |
+| Rounding/Format  | 1              | 2              | Negligible  |
+| Hallucination    | 0              | 0              | Stable      |
+
+--------------------------------------------------------------------------------
+4. CONCLUSION
+--------------------------------------------------------------------------------
+By surgically addressing the "Retrieval" bottleneck through Row Header 
+Injection, I successfully unlocked the reasoning potential of a sub billion 
+parameter model. The results prove that data structure is as important as 
+model size for complex financial reasoning.

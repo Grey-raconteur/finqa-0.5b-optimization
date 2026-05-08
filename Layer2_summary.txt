@@ -1,0 +1,71 @@
+
+================================================================================
+FINQA LAYER 2 Writeup
+================================================================================
+Model: Qwen 2.5 0.5B Instruct
+Task: Multi-step Financial Reasoning (FinQA)
+Experiment Date: May 8, 2026
+
+--------------------------------------------------------------------------------
+1. EXECUTIVE SUMMARY: THE PRIORITY OF RELIABILITY
+--------------------------------------------------------------------------------
+The objective of this evaluation was to stress-test the Qwen 0.5B model against 
+the FinQA dataset, which requires the synthesis of structured tables and 
+unstructured text into a symbolic reasoning program.
+
+While raw Execution Accuracy (matching the final number) is a common metric, 
+our analysis proves that (atleast for this model) Execution Accuracy 
+is a misleading indicator of actual reasoning intelligence. 
+
+Although the 'Text-Only' mode achieved a higher raw score (12%), the 
+FULL CONTEXT mode is the true superior format, producing the highest number 
+of True Positives (7) and the lowest False Positive Rate (12.5%). This confirms 
+that the model requires the integration of both structured and unstructured 
+data to maintain logical grounding.
+
+--------------------------------------------------------------------------------
+2. LAYER 2: ERROR TAXONOMY (FORENSIC ANALYSIS)
+--------------------------------------------------------------------------------
+We categorized 91 failures to understand the architectural limits of the 
+0.5B model.
+
+| Error Type      | Frequency | Insight                                        |
+|-----------------|-----------|------------------------------------------------|
+| Retrieval Error | 73.6%     | Model used the wrong numbers                   |
+| Operation Error | 23.1%     | Right numbers, wrong operation                 |
+| Order Error     | 2.2%      | Right operation, wrong sequence                |
+| Rounding/Format | 1.1%      | Correct logic, wrong numerical output          |
+
+CONCLUSION: The primary bottleneck is Retrieval. It failed to fetch the right
+Numbers most of the time.
+
+--------------------------------------------------------------------------------
+3. RELIABILITY ANALYSIS: WHY FULL CONTEXT WINS
+--------------------------------------------------------------------------------
+We analyzed the Program Accuracy (validity of the reasoning steps) to separate 
+lucky guesses from actual reasoning.
+
+FALSE POSITIVE ANALYSIS SUMMARY
+
+| Format Type     | Total Correct | True Positives | False Positives | FP Rate (%) |
+|-----------------|---------------|----------------|-----------------|-------------|
+| Full (Baseline) | 8             | 7              | 1               | 12.5%       |
+| Table Only      | 5             | 1              | 4               | 80.0%       |
+| Text Only       | 12            | 5              | 7               | 58.3%       |
+
+THE SUPERIORITY OF FULL CONTEXT
+
+- Full Context (8% score) is the most trustworthy mode. 87.5% of its correct 
+  answers were True Positives. The text provides the "labels" that prevent 
+  misinterpretation of the numbers.
+
+THE ISOLATION TRAP
+
+- Table-Only: Yielded an 80% False Positive Rate. Without text, the model 
+  "blind-guesses" formulas against any visible numbers.
+- Text-Only: Despite a 12% raw score, only 5 questions were solved with correct 
+  logic. 58.3% of successes were "lucky guesses" where the model found a number 
+  in the text that matched the answer by coincidence.
+
+
+

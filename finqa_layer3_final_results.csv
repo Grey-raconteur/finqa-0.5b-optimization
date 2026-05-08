@@ -1,0 +1,1565 @@
+id,is_correct,predicted_logic,gold_answer,predicted_answer,question
+0,False,"To calculate the net change in net revenue for Entergy Corporation in 2015, we need to consider both the changes in retail electric prices and the additional regulatory liabilities mentioned in the notes.
+
+**Retail Electric Price Variance:**
+- Retail electric price increased by $187 million between 2014 and 2015.
+- This represents a decrease in retail electric prices.
+
+**Additional Regulatory Liabilities:**
+- The company reported an additional regulatory liability of $107 million in 2015.
+- This includes regulatory liabilities related to customer credits to be realized by electric customers of Entergy Louisiana, consistent with the terms of the stipulated settlement in the business combination proceeding.
+
+**Net Change Calculation:**
+
+1. **Decrease in Retail Electric Prices:** $187 million
+2. **Regulatory Liability:** $107 million
+
+Net Change = Decrease in Retail Electric Prices - Regulatory Liability
+= -$187 million - $107 million
+= -$294 million
+
+Therefore, the net change in net revenue during 2015 for Entergy Corporation was a decrease of $294 million compared to the same period in 201",94.0,0.0,what is the net change in net revenue during 2015 for entergy corporation?
+1,False,"To calculate the percentage of total facilities as measured in square feet that are leased, I'll follow these steps:
+
+1. Identify the total square footage of all facilities.
+2. Identify the square footage of leased facilities.
+3. Calculate the percentage of total square footage leased.
+
+Step 1: Total square footage of all facilities
+From the table, the total square footage is 56.0 million square feet.
+
+Step 2: Square footage of leased facilities
+The lease data shows:
+- United States: 23.2 million square feet
+- Other countries: 8.1 million square feet
+
+Step 3: Calculate the percentage of total square footage leased
+Percentage = (Leased square footage / Total square footage) * 100
+= (23.2 / 56.0) * 100
+≈ 41.81%
+
+Therefore, approximately 41.81% of the total facilities are leased.
+
+Final Answer: 41.81%",0.14464,0.4181,what percentage of total facilities as measured in square feet are leased?
+2,True,"To calculate the percentage change in cash flow hedges between 2011 and 2010:
+
+1. Identify the cash flow hedges for both years:
+   - 2011: $153.7 million in cash flow hedges
+   - 2010: $139.9 million in cash flow hedges
+
+2. Calculate the difference:
+   $153.7 million - $139.9 million = $13.8 million
+
+3. Divide this difference by the 2010 figure:
+   ($13.8 million / $139.9 million) * 100 = 9.6%
+
+Therefore, the percentage change in cash flow hedges in 2011 compared to 2010 is approximately **9.6%**.",0.09864,0.096,what is the percentage change in cash flow hedges in 2011 compare to the 2010?
+3,True,"To determine what portion of the total purchase price is related to stock awards, let's follow these steps:
+
+1. Identify the relevant data:
+   - Total purchase price: $4187.8 million
+   - Value of metavante common stock: $4066.4 million
+
+2. Calculate the percentage of the total purchase price attributable to metavante common stock:
+   \[
+   \text{Percentage} = \left( \frac{\text{Value of metavante common stock}}{\text{Total purchase price}} \right) \times 100
+   \]
+   \[
+   \text{Percentage} = \left( \frac{4066.4}{4187.8} \right) \times 100 \approx 97.04\%
+   \]
+
+3. Determine the percentage of the total purchase price attributable to stock awards:
+   Since metavante common stock represents 97.04% of the total purchase price, it means that approximately 2.96% of the total purchase price is allocated specifically to stock awards.
+
+Therefore, the portion of the total purchase price that is related to stock awards is approximately **",0.02899,0.0296,what portion of total purchase price is related to stock awards?
+4,False,"To calculate the difference in percentage cumulative total shareholder returns between Masco Common Stock and the S&P 500 Index over the five-year period ending December 31, 2017, we need to follow these steps:
+
+1. **Calculate the cumulative total shareholder returns for both companies**:
+   - For Masco Common Stock:
+     \[
+     \text{Cumulative Total Shareholder Return} = \frac{\text{Ending Value}}{\text{Beginning Value}} + 1
+     \]
+     Where:
+     - Ending Value = $318.46
+     - Beginning Value = $43.94
+     \[
+     \text{Cumulative Total Shareholder Return}_{\text{Masco}} = \frac{318.46}{43.94} + 1 = 7.31 + 1 = 8.31
+     \]
+
+   - For the S&P 500 Index:
+     \[
+     \text{Cumulative Total Shareholder Return} = \frac{\text{Ending Value}}{\text{Beginning Value}} + 1
+     \]
+     Where:
+     - Ending Value = $",1.1197,1.0,what was the difference in percentage cumulative total shareholder return on masco common stock versus the s&p 500 index for the five year period ended 2017?
+5,False,"To calculate the percentage change in total rental expense under operating leases from July 2, 2005 to July 1, 2006:
+
+1. Identify the total rental expense for each year:
+   - July 2, 2005: $92710000
+   - July 1, 2006: $100690000
+
+2. Calculate the difference between the two years:
+   $100690000 - $92710000 = $7980000
+
+3. Divide the difference by the original amount (July 2, 2005):
+   $7980000 / $92710000 ≈ 0.86
+
+4. Convert the result to a percentage:
+   0.86 * 100 = 86%
+
+Therefore, the percentage change in total rental expense under operating leases from July 2, 2005 to July 1, 2006 was approximately 86%.",0.06757,0.86,"what was the percentage change in total rental expense under operating leases from july 2 , 2005 to july 1 , 2006?"
+6,False,"To determine what percentage of total recourse debt is current, we need to follow these steps:
+
+1. Identify the total amount of recourse debt.
+2. Identify the amount of recourse debt that has matured.
+3. Calculate the percentage of total recourse debt that is current.
+
+Step 1: Total amount of recourse debt
+From the table, we can see that the total amount of recourse debt is $4612 million.
+
+Step 2: Amount of recourse debt that has matured
+The problem states that ""recourse debt transactions during 2010, the company redeemed $690 million aggregate principal of its 8.75% (8.75%) second priority senior secured notes due 2013 (201CThe 2013 notes 201D).""
+
+Step 3: Calculate the percentage of total recourse debt that is current
+Current recourse debt = Total amount - Redeemed amount
+Current recourse debt = $4612 million - $690 million
+Current recourse debt = $4543 million
+
+Percentage of total recourse debt that is current = (Current recourse debt / Total amount) * 100%
+Percentage of total recourse",0.10039,0.0,what percent of total recourse debt is current?
+7,False,"To determine what percentage of future minimum rental payments are due in 2018, we need to follow these steps:
+
+1. Identify the relevant data from the table:
+   - Future minimum rental payments for 2018: $249 million
+   - Total future minimum rental payments for 2018: $258 million
+
+2. Calculate the percentage:
+   Percentage = (Future minimum rental payment for 2018 / Total future minimum rental payments) * 100
+   Percentage = ($249 million / $258 million) * 100
+   Percentage ≈ 95.45%
+
+Therefore, approximately 95.45% of future minimum rental payments are due in 2018.
+
+Final Answer: 95.45%",0.11689,0.9545,what percentage of future minimum rental payments are due in 2018?
+8,True,"To determine if Altria Group Inc. (AIG) outperformed the S&P 500 over the given time frame, we need to calculate the cumulative total shareholder returns for both AIG and the S&P 500 using the provided metric data.
+
+### Step-by-Step Calculation:
+
+1. **Calculate the cumulative total shareholder returns for AIG:**
+   - December 2011: $100.00
+   - December 2012: $111.77
+   - December 2013: $143.69
+   - December 2014: $193.28
+   - December 2015: $237.92
+   - December 2016: $286.61
+
+   The formula to calculate the cumulative total shareholder return is:
+   \[
+   \text{Return} = \frac{\text{Ending Value}}{\text{Beginning Value}} + 1
+   \]
+
+   Applying this formula to AIG:
+   \[
+   \begin{align*}
+   \text{Return}_{\text{December",1.0,1.0,did altria outperform the s&p 500?
+9,False,"To calculate the change in unrecognized tax benefits from the end of 2014 to the end of 2015:
+
+1. Identify the values for both years:
+   - 2014: $49 million
+   - 2015: $44 million
+
+2. Calculate the difference:
+   Change = 2015 value - 2014 value
+   Change = $44 million - $49 million
+   Change = -$5 million
+
+The negative value indicates a decrease in unrecognized tax benefits from the end of 2014 to the end of 2015.
+
+Final Answer: The change in unrecognized tax benefits from the end of 2014 to the end of 2015 was a decrease of $5 million.",-35.0,0.05,what was the change in unrecognized tax benefits from the end of 2014 to the end of 2015?
+10,False,"To calculate the growth rate of the balance of standby letters of credits from 2006 to 2007, we can use the formula:
+
+\[ \text{Growth Rate} = \left( \frac{\text{Ending Value}}{\text{Beginning Value}} - 1 \right) \times 100\% \]
+
+From the table, we have:
+- Ending Value of Standby Letters of Credit in 2007: $1.04 billion
+- Beginning Value of Standby Letters of Credits in 2006: $492.6 million
+
+Plugging these values into the formula:
+
+\[ \text{Growth Rate} = \left( \frac{1.04}{492.6} - 1 \right) \times 100\% \]
+\[ \text{Growth Rate} = \left( \frac{1.04}{492.6} - 1 \right) \times 100\% \]
+\[ \text{Growth Rate} = \left( 0.002003 - 1 \right) \times ",-0.04365,1.0,what is the growth rate in the balance of standby letters of credit from 2006 to 2007?
+11,False,"To calculate the Debt-to-Asset Ratio (DAR), we need to follow these steps:
+
+1. **Identify Current Assets**: From the table, the current assets for each year are listed below:
+   - December 31, 2016: $36,443,310
+   - December 31, 2015: $28,659,700
+   - December 31, 2014: $20,924,280
+   - December 31, 2013: $15,763,690
+   - December 31, 2012: $11,550,520
+
+2. **Calculate Total Current Assets**:
+   \[
+   \text{Total Current Assets} = \$36,443,310 + \$28,659,700 + \$20,924,280 + \$15,763,690 + \$11,550,520
+   \]
+",0.22429,115505.2,what is the debt-to-asset ratio?
+12,False,"To determine what portion of the total noncancelable future lease commitments is due in fiscal year 2019, I'll follow these steps:
+
+1. Identify the relevant data from the table.
+2. Calculate the amount due in fiscal year 2019.
+3. Divide that amount by the total noncancelable future lease commitments to get the percentage.
+
+Step 1: Relevant data
+- Fiscal 2019: $137.4 million
+- Fiscal 2020: $115.7 million
+- Fiscal 2021: $92.3 million
+- Fiscal 2022: $70.9 million
+- Fiscal 2023: $51.8 million
+- Total noncancelable future lease commitments: $559.3 million
+
+Step 2: Calculate the amount due in fiscal year 2019
+$137.4 million / 2 = $68.7 million
+
+Step 3: Calculate the percentage due
+(68.7 million / 559.3 million) * 100% ≈ 12.5%
+
+Therefore,",0.24566,0.0,what portion of the total noncancelable future lease commitments are due in fiscal year of 2019?
+13,True,"To determine if the five-year total return of the 2019 peer group was greater than the 2018 peer group, we need to calculate the total returns for both periods using the given data.
+
+### Step-by-Step Calculation:
+
+#### 2019 Peer Group Total Return:
+1. **Initial Investment**: June 30, 2014 (100)
+2. **Fiscal Year 2019 Returns**:
+   - Aci Worldwide Inc.: 107.42%
+   - Black Knight Inc.: 127.40%
+   - Bottomline Technologies Inc.: 151.16%
+   - Broadridge Financial Solutions Inc.: 131.70%
+   - Cardtronics PLC: 150.64%
+   - CoreLogic Inc.: 182.15%
+   - Euronet Worldwide Inc.: 166.15%
+   - ExlService Holdings Inc.: 142.94%
+   - Fair Isaac Corp.: 126.23%
+   - Fidelity National Information Services Inc.: 111.71%
+  ",0.0,0.0,was the five year total return of the 2019 peer group greater than the 2018 peer group?
+14,False,"To calculate the percentage change in deferred tax assets and regulatory assets from 2013 to 2014:
+
+1. **Deferred Tax Assets**:
+   - At December 31, 2013: $6348
+   - At December 31, 2014: $6241
+
+   Percentage change = ((New Value - Original Value) / Original Value) * 100
+                     = (($6241 - $6348) / $6348) * 100
+                     = (-$107 / $6348) * 100
+                     ≈ -1.65%
+
+2. **Regulatory Assets**:
+   - At December 31, 2013: $6241
+   - At December 31, 2014: $6348
+
+   Percentage change = ((New Value - Original Value) / Original Value) * 100
+                     = (($6348 - $6241) / $6241) * 100
+                     = ($1",0.01714,1.0,what was the percentage change in deferred tax assets and regulatory assets from 2013 to 2014
+15,False,"To calculate the average net annual change in discounted future net cash flows over the three-year period from 2011 to 2009, we need to follow these steps:
+
+1. Identify the net annual changes for each year:
+   - 2011: +$7922 million
+   - 2010: +$6330 million
+   - 2009: +$4876 million
+
+2. Sum up all the net annual changes:
+   $7922 + $6330 + $4876 = $1,8128 million
+
+3. Divide the total sum by the number of years (which is 3) to get the average:
+   $1,8128 / 3 = $6042.67 million
+
+Therefore, the average net annual change in discounted future net cash flows over the years 2011, 2010, and 2009 is **$6042.67** million.",3297.66667,6042.67,"what was the average net annual change in discounted future net cash flows ( in millions ) for the years 2011 , 2010 , and 2009?"
+16,True,"To determine the approximate number of destinations per continent, let's follow these steps:
+
+1. **Identify the total number of destinations**: The problem states that there are 455 destinations across all seven continents.
+
+2. **Determine the number of continents**: There are 7 continents in total.
+
+3. **Calculate the average number of destinations per continent**:
+   \[
+   \text{Average number of destinations per continent} = \frac{\text{Total number of destinations}}{\text{Number of continents}}
+   \]
+   Substituting the given values:
+   \[
+   \text{Average number of destinations per continent} = \frac{455}{7}
+   \]
+
+4. **Perform the division**:
+   \[
+   \frac{455}{7} = 65
+   \]
+
+Therefore, assuming each continent has the same number of destinations, each continent has approximately **65 destinations**.",65.0,65.0,"assuming each continent has the same number of destinations , approximately how many destinations does each continent have?"
+17,False,"To calculate the average net revenue between 2016 and 2017:
+
+1. Identify the net revenue values for both years from the table:
+   2016 net revenue: $705.4 million
+   2017 net revenue: $703.1 million
+
+2. Add these two values together:
+   $705.4 + $703.1 = $1,408.5 million
+
+3. Divide the sum by the number of years (which is 2):
+   $1,408.5 / 2 = $704.25 million
+
+Therefore, the average net revenue between 2016 and 2017 was **$704.25** million.",705.25,704.25,what was the average net revenue between 2016 and 2017 in millions
+18,False,"To calculate the percentage of the total ending balance as of November 28, 2008, related to accrued interest and penalties:
+
+1. Identify the total ending balance as of November 28, 2008: $139,549 million
+2. Identify the accrued interest and penalties related to tax positions: $15,300,000 million
+3. Calculate the percentage: ($15,300,000 / $139,549) * 100 = 11.0%
+
+Therefore, the combined amount of accrued interest and penalties related to tax positions taken on our tax returns and included in non-current income taxes payable was 11.0% of the total ending balance as of November 28, 2008.",0.10964,0.0,the combined amount of accrued interest and penalties related to tax positions taken on our tax returns and included in non-current income taxes payable was what percent of the total ending balance as of november 28 2008?
+19,False,"To determine the total fair value in billions of assets segregated for the benefit of securities and futures brokerage customers in 2010 and 2009, we need to follow these steps:
+
+1. Identify the total fair value of assets segregated for securities and futures brokerage customers in both years.
+2. Sum these values to get the total.
+
+From the table provided:
+
+For 2010:
+- Total fair value = $9.7 billion
+
+For 2009:
+- Total fair value = $10.2 billion
+
+Now, add these two values together:
+
+$9.7 billion + $10.2 billion = $19.9 billion
+
+Therefore, the total fair value in billions of assets segregated for the benefit of securities and futures brokerage customers in 2010 and 2009 was **19.9** billion.",68.9,0.0,"in 2010 and 2009 , what was the total fair value in billions of assets segregated for the benefit of securities and futures brokerage customers?"
+20,False,"To calculate the percentage change in the commercial mortgage loans designated for sale at fair value from 2008 to 2009:
+
+1. Identify the values for both years:
+   - 2008: $772 million
+   - 2009: $843 million
+
+2. Calculate the difference between the two years:
+   $843 million - $772 million = $71 million
+
+3. Divide the difference by the 2008 value:
+   $71 million / $772 million = 0.0901
+
+4. Convert to a percentage:
+   0.0901 * 100% = 9.01%
+
+Therefore, the percentage change in the commercial mortgage loans designated for sale at fair value from 2008 to 2009 was approximately **9.01%**.",-0.08422,0.0901,what was the percentage change in the commercial mortgage loans designated for sale at fair value from 2008 to 2009
+21,False,"To calculate the difference in percentage cumulative 5-year total shareholder return on common stock between Fidelity National Information Services Inc. and the S&P 500 Index for the period ending December 16, we need to follow these steps:
+
+1. **Identify the relevant data points**:
+   - For Fidelity National Information Services Inc., the metric is `12/16`.
+   - For the S&P 500 Index, the metric is `12/16`.
+
+2. **Calculate the cumulative 5-year total shareholder return**:
+   - Cumulative 5-year total shareholder return = (Initial Share Price + Dividends) / Initial Share Price * 100%
+
+3. **Perform the calculation**:
+   - For Fidelity National Information Services Inc.: 
+     \[
+     \text{Cumulative Return} = \left( \frac{100}{100} + \frac{134.12}{100} \right) / 100 \times 100\% = 13.412\%
+     \]
+   - For the S&P 500 Index: 
+     \",1.1363,500.0,"what was the difference in percentage cumulative 5-year total shareholder return on common stock fidelity national information services , inc . compared to the s&p 500 for the period ending 12/16?"
+22,False,"To calculate the percentage change in the share price from March 31, 2015 to March 31, 2016:
+
+1. Identify the highest and lowest share prices:
+   - Highest: $102.93
+   - Lowest: $83.07
+
+2. Calculate the difference between the highest and lowest prices:
+   $102.93 - $83.07 = $19.86
+
+3. Divide this difference by the lowest price:
+   $19.86 / $83.07 ≈ 0.245
+
+4. Convert to a percentage:
+   0.245 * 100 = 24.5%
+
+Therefore, the percentage change in the share price from March 31, 2015 to March 31, 2016 is approximately **24.5%**.",0.09302,0.245,for the quarter ended march 312015 what was the percentage change in the share price from the highest to the lowest
+23,True,"To determine the percentage of total contractual obligations and off-balance sheet arrangements contractual obligations due to capital lease obligations, let's follow these steps:
+
+1. Identify the total amount of contractual obligations:
+   Total = $13208 million
+
+2. Identify the amount of capital lease obligations:
+   Capital lease obligations = $230 million
+
+3. Calculate the percentage:
+   Percentage = (Capital lease obligations / Total) * 100
+                = ($230 / $13208) * 100
+                ≈ 1.71%
+
+Therefore, approximately 1.71% of the total contractual obligations and off-balance sheet arrangements are due to capital lease obligations.
+
+Final Answer: 1.71%",0.01741,0.0171,of the total contractual obligations and off-balance sheet arrangements contractual obligations what percentage is due to capital lease obligations?
+24,True,"To calculate the ratio of the total flight attendants to the total maintenance personnel:
+
+1. Find the total number of flight attendants: 24700
+2. Find the total number of maintenance personnel: 14900
+3. Divide the total flight attendants by the total maintenance personnel: 24700 / 14900 = 1.67
+
+The final answer: The ratio of the total flight attendants to the total maintenance personnel is 1.67.",1.59172,1.67,what is the ratio of the total flight attendants to total maintenance personnel
+25,False,"To calculate the ratio of square footage in Alpha-Tex Atlanta Georgia to Charlotte North Carolina:
+
+1. First, identify the square footage values for each location:
+   - Alpha-Tex Atlanta: 21,9000 sq ft
+   - Charlotte North Carolina: 8,3000 sq ft
+
+2. Add these two values together:
+   21,9000 + 8,3000 = 30,2000 sq ft
+
+3. Divide this sum by the total square footage of both cities combined:
+   30,2000 / (21,9000 + 8,3000) ≈ 1.20
+
+Therefore, the ratio of the square footage in Alpha-Tex Atlanta Georgia to Charlotte North Carolina is approximately 1.20.",2.63855,0.0,as of december 2007 what was the ratio of the square footage in alpharetta georgia to charlotte north carolina
+26,True,"To calculate the percentage of the income tax benefit to the stock-based compensation cost in 2010:
+
+1. Identify the income tax benefit amount: $-6.3 (6.3)
+2. Identify the stock-based compensation cost amount: $18.1
+3. Calculate the ratio: Income Tax Benefit / Stock-Based Compensation Cost = -$6.3 / $18.1 ≈ -0.34
+
+The negative sign indicates a decrease in the income tax benefit compared to the stock-based compensation cost. To express this as a percentage, we divide by the stock-based compensation cost and multiply by 100:
+
+(-0.34) * 100 = -34%
+
+Therefore, the answer is -34%.",0.34807,0.34,in 2010 what was the percent of the income tax benefit to the stock based compensation cost
+27,False,"To calculate the percentage change in the gross liability for unrecognized tax benefits between 2007 and 2008:
+
+1. Identify the values for both years:
+   2007 Gross Liability: $139,500,000
+   2008 Gross Liability: $139,500,000
+
+2. Calculate the difference:
+   Difference = 2008 Gross Liability - 2007 Gross Liability
+                = $139,500,000 - $139,500,000
+                = $0
+
+3. Divide the difference by the 2007 value:
+   Percentage Change = (Difference / 2007 Value) * 100%
+                     = ($0 / $139,500,000) * 100%
+                     = 0%
+
+Therefore, there has been no change in the gross liability for unrecognized tax benefits between 2007 and 2008. The percentage change is 0%.",-0.30851,0.0,what is the percentage change in the the gross liability for unrecognized tax benefits during 2008 compare to 2007?
+28,False,"To calculate the total impairment costs recorded from 2003 to 2005:
+
+1. Identify the relevant dates: January 28, 2005, and January 30, 2004.
+2. Determine the amount of impairment charge for each year:
+   - January 28, 2005: $0.2 million
+   - January 30, 2004: $0.7 million
+3. Sum up the impairment charges for both years:
+   $0.2 + $0.7 = $0.9 million
+
+Therefore, the total impairment costs recorded from 2003 to 2005 was **$0.9 million**.",5.8,0.9,what was the total impairment costs recorded from 2003 to 2005 in millions
+29,False,"To calculate the borrowing under the term loan facility as a percentage of the total contractual maturities of long-term debt obligations due subsequent to December 31, 2016:
+
+1. Identify the total contractual maturities of long-term debt obligations due subsequent to December 31, 2016:
+   - Term loan facility: $175 million
+   - Revolving facility: $485 million
+   Total = $175 + $485 = $660 million
+
+2. Calculate the percentage of the total contractual maturities relative to the term loan facility:
+   Percentage = ($175 / $660) * 100 = 26.8%
+
+Therefore, the term loan facility's borrowing under the contract as a percentage of the total contractual maturities of long-term debt obligations due subsequent to December 31, 2016 is **26.8%**.",1.13599,26.8,"what is the borrowing under the term loan facility as a percentage of the total contractual maturities of long-term debt obligations due subsequent to december 31 , 2016?"
+30,True,"To calculate the percentage of total operating revenues associated with agriculture products in 2015:
+
+1. Identify the relevant data:
+   - Total Operating Revenues: $203,970
+   - Agricultural Products Revenue: $3581
+
+2. Calculate the ratio:
+   \[
+   \text{Ratio} = \frac{\text{Agricultural Products Revenue}}{\text{Total Operating Revenues}} = \frac{3581}{20397}
+   \]
+
+3. Simplify the fraction:
+   \[
+   \text{Ratio} = \frac{3581}{20397} \approx 0.1704
+   \]
+
+4. Convert to percentage:
+   \[
+   \text{Percentage} = 0.1704 \times 100 \approx 17.04\%
+   \]
+
+Therefore, the percentage of total operating revenues associated with agriculture products in 2015 was approximately **17.04%**.",0.16417,0.1704,in 2015 what was the percent of the total operating revenues associated with agriculture products
+31,False,"To determine what percentage of net interest revenue corresponds to total operating expenses in 2009, we need to look at the relevant row in the table:
+
+**Net Interest Revenue:** $3173
+
+**Total Operating Expenses:** $896
+
+The formula to calculate the percentage is:
+
+\[ \text{Percentage} = \left( \frac{\text{Value}}{\text{Reference Value}} \right) \times 100 \]
+
+Plugging in the values:
+
+\[ \text{Percentage} = \left( \frac{3173}{896} \right) \times 100 \]
+
+Now let's do the math:
+
+\[ \text{Percentage} = \left( 3.5 \right) \times 100 \]
+\[ \text{Percentage} = 350\% \]
+
+Therefore, **350%** of net interest revenue corresponded to total operating expenses in 2009.",0.28238,0.0,what percent of net interest revenue where total operating expenses in 2009?
+32,False,"To determine the greatest provision for income taxes, we need to look at the values provided in the table:
+
+- 2006: $829 million
+- 2005: $480 million
+- 2004 as restated (1): $104 million
+
+Comparing these values, we can see that the greatest provision for income taxes is $104 million, which corresponds to the year 2004 as restated (1).
+
+Therefore, the answer is: Final Answer: $104.",829.0,104.0,"what was the greatest provision for income taxes , in millions?"
+33,True,"To determine the percentage of CIB Markets Net Interest Income (CMI) as part of Managed Interest Income (MII), we need to compare the two metrics:
+
+1. **Managed Interest Income (MII):** This metric excludes CIB Markets Net Interest Income (CMI). Therefore, it does not include any CIB Market-specific components like CIB's own funds or fees.
+
+2. **CIB Markets Net Interest Income (CMI):** This metric includes CIB's own funds and fees, making it more relevant to the CIB's overall net interest income.
+
+Given this comparison, the CIB Markets Net Interest Income (CMI) is the only component of MII that can be considered as part of the managed portion of net interest income. 
+
+Therefore, the answer is:
+
+**The CIB Markets Net Interest Income (CMI) was 100% of the Managed Interest Income (MII).**
+
+This means that all of the CIB's net interest income comes directly from its own sources, without any external influences such as CIB's own funds or fees.",0.05543,0.0,in 2018 what was the percent of the cib markets net interest income as part of the managed interest income
+34,False,"To calculate the fair value of total securities available for sale without including the fair value of securities classified as corporate stocks, I'll follow these steps:
+
+1. Identify the total securities available for sale (SFS) at December 31, 2012.
+2. Subtract the fair value of securities classified as corporate stocks from the SFS.
+
+From the table:
+Total Securities Available for Sale (SFS) = $59,801 million
+
+Fair Value of Corporate Stocks = $368 million
+
+Calculation:
+Fair Value of Total Securities = SFS - Fair Value of Corporate Stocks
+Fair Value of Total Securities = $59,801 million - $368 million
+Fair Value of Total Securities = $59,433 million
+
+Therefore, the fair value of total securities available for sale without including the fair value of securities classified as corporate stocks would be approximately $59,433 million.",61545.0,59433.0,"what would the fair value of total securities available for sale be without the fair value of securities classified as corporate stocks as of december 31 , 2012?"
+35,False,"To determine the ending balance of unrecognized tax benefits at March 31, 2008, we need to follow these steps:
+
+1. **Identify the changes in the metric:**
+   - The reduction in tax positions for closing of the applicable statute of limitations from -56 to 0.3 million.
+
+2. **Understand the impact on the balance sheet:**
+   - The company has initiated a voluntary disclosure plan.
+   - It has elected to recognize interest and/or penalties related to income tax matters in income tax expense in its consolidated statements of operations.
+   - Accrued interest is not significant but is included in the $0.3 million adjustment to the opening balance of retained earnings.
+
+3. **Calculate the impact on the balance sheet:**
+   - The reduction in tax positions reduces the total unrecognized tax benefits by $0.3 million.
+   - Since accrued interest is not significant, it does not affect the total unrecognized tax benefits.
+
+4. **Determine the new balance after adjustments:**
+   - The original balance before the reduction was $224 million.
+   - After reducing the total unrecognized tax benefits by $0.3 million, the new balance becomes $224 - $0",112.0,0.0,"assuming the same level of settlements as in fiscal 2007 , what would be the ending balance at march 31 2008 in millions for unrecognized tax benefits?\\n"
+36,False,"To calculate the percentage of the square footage not leased to the total square footage in Alpharetta, Georgia:
+
+1. Total square footage in Alpharetta, Georgia: 25,400,000 sq ft
+2. Square footage not leased (excluding Alpharetta): 16,500,000 sq ft
+
+Calculation:
+(16,500,000 - 25,400,000) / 25,400,000 * 100 = (-9,900,000 / 25,400,000) * 100 ≈ -37.04%
+
+The negative sign indicates that there was an overstatement of the square footage not leased, but it's important to note that this is still within the acceptable range for a company like ours. The actual percentage should be positive, so we'll round down to 37%.
+
+Final Answer: 37%",0.64961,0.37,"as of december 2012 what is the percent of the square footage not leased to the total square footage in alpharetta , georgia"
+37,False,"To calculate the percentage of square footage in Alpharetta Georgia not yet leased:
+
+1. Identify the total square footage in Alpharetta:
+   21,9000 square feet
+
+2. Identify the square footage in Alpharetta that is not yet leased:
+   16,6000 square feet
+
+3. Calculate the percentage:
+   (16,6000 / 21,9000) * 100 = 73.4%
+
+Therefore, the answer is 73.4%.",0.75799,0.0,as of december 2007 what was the percent of the square footage in alpharetta georgia not yet leased
+38,False,"To determine the total number of stock options cancelled in millions during 2017, 2016, and 2015, we need to look at the cancellation amounts for each year:
+
+For 2017:
+- Cancelled 8.1 million RSUs
+- Total value: $1.94 billion
+
+For 2016:
+- Cancelled 6.1 million RSUs
+- Total value: $921 million
+
+For 2015:
+- Cancelled 5.7 million RSUs
+- Total value: $1.03 billion
+
+Now, let's add up the values from all three years:
+
+$1.94 billion + $921 million + $1.03 billion = $2.99 billion
+
+Therefore, the total amount of stock options cancelled in millions during 2017, 2016, and 2015 was **299** million.",12.1,0.0,"what is the total amount of stock options cancelled in millions during 2017 , 2016 and 2015?"
+39,True,"To determine the total shares of common stock issued to employees in 2004 and 2003, we need to look at the ""Shares of common stock"" column for each year listed in the table.
+
+For 2004:
+The ""Shares of common stock"" row shows 1939734 shares.
+
+For 2003:
+The ""Shares of common stock"" row shows 1937141 shares.
+
+Therefore, the total shares of common stock issued to employees in both 2004 and 2003 are:
+
+1939734 + 1937141 = 3876875 shares
+
+So, the final answer is: 3876875 shares",3876875.0,3876875.0,"in 2004 and 2003 , what were the total shares of common stock that were issued to employees?"
+40,False,"To calculate the net change in net revenue for Entergy Wholesale Commodities during 2012, we need to compare the net revenue figures for 2012 and 2011:
+
+- Net Revenue for 2012: $1,854 million
+- Net Revenue for 2011: $2,045 million
+
+The difference between these two values gives us the net change in net revenue for 2012:
+
+$1,854 million - $2,045 million = -$291 million
+
+Therefore, the net change in net revenue for Entergy Wholesale Commodities during 2012 is a decrease of $291 million.",-191.0,2.91,what is the net change in net revenue for entergy wholesale commodities during 2012?
+41,False,"To calculate the difference in percentage cumulative total return between Goldman Sachs Group Inc. and the S&P 500 Index for the five-year period ending December 31, 2013, we need to follow these steps:
+
+1. **Calculate the cumulative total returns for both companies over the five-year period:**
+
+   - **Goldman Sachs Group Inc.:**
+     - Dec-09: 100% (initial investment)
+     - Dec-10: 100% (initial investment)
+     - Dec-11: 100% (initial investment)
+     - Dec-12: 100% (initial investment)
+     - Dec-13: 100% (initial investment)
+
+     Cumulative total return = Initial Investment + (Cumulative Total Return at Dec-13 / Initial Investment) * (Dec-13 - Initial Investment)
+     = 100% + (100% / 100%) * (136.20 - 100)
+     = 100% + 100%
+     = 200%
+
+   - **S&P 50",0.1216,0.5,what was the difference in percentage cumulative total return for goldman sachs group inc . and the s&p 500 index for the five year period ending 12/31/13?
+42,False,"To determine the value of the granted share awards as of December 31, 2017:
+
+1. Identify the relevant data: The table shows ""number of performance share awards"" and ""weighted-average grant-date fair value.""
+
+2. Locate the row for ""granted"":
+   - In the table, the ""granted"" column shows 160,196.
+
+3. Calculate the value:
+   - Weighted-average grant-date fair value = $58.02
+
+Therefore, the value of the granted share awards as of December 31, 2017 was $58.02.",9294571.92,58.02,"as of december 31 , 2017 what was the value of the granted share awards"
+43,False,"To calculate the percentage of total contractual obligations that is categorized as long-term debt, I'll follow these steps:
+
+1. Identify the long-term debt category in the table.
+2. Count the number of entries in that category.
+3. Divide the count by the total number of entries.
+4. Multiply by 100 to get the percentage.
+
+Step 1: The long-term debt category appears twice in the table.
+
+Step 2: There are 2 rows labeled ""long-term debt"" in the table.
+
+Step 3: The count of long-term debt entries is 2.
+
+Step 4: To calculate the percentage, I'll multiply the count by 100:
+
+(2 / 2) * 100 = 100%
+
+Therefore, 100% of the total contractual obligations are categorized as long-term debt.",0.45103,1.0,what percent of total contractual obligations is categorized as long term debt?
+44,False,"To calculate the average cash flow from 2004 to 2006, I'll follow these steps:
+
+1. Identify the relevant data points:
+   - 2004: $950.4 million
+   - 2005: $769.1 million
+   - 2006: $957.4 million
+
+2. Sum the values:
+   $950.4 + $769.1 + $957.4 = $2,786.9 million
+
+3. Divide by the number of years between 2004 and 2006:
+   $2,786.9 / (2006 - 2004) = $2,786.9 / 2 = $1,393.45 million
+
+Therefore, the average cash flow from 2004 to 2006 was $1,393.45 million.",892.3,1393.45,what was the average cash flow from 2004 to 2006
+45,False,"To calculate the total value of securities issued and approved by security holders:
+
+1. Identify the relevant data from the table:
+   - Total securities issued: $40.85 million
+   - Securities approved by security holders: 766,801
+
+2. Add the two values together:
+   $40.85 + $766,801 = $767,209.85 million
+
+Therefore, the total value of securities issued and approved by security holders is **$767,209.85 million**.",31.32382,767209.85,"what is the total value of securities issued and approved by security holders , ( in millions ) ?"
+46,False,"To calculate the percentage change in revenue generated from non-US currencies from 2015 to 2016:
+
+1. Identify the revenue values for each year:
+   - 2015: Brazilian Real ($BR)
+   - 2016: Euro ($EUR)
+   - 2017: Indian Rupee ($INR)
+
+2. Calculate the difference between the two years:
+   $INR - $EUR = -$130 million
+
+3. Divide this difference by the 2015 value:
+   (-$130 million) / $47 = -$2.70 million per year
+
+4. Multiply by 100 to get the percentage:
+   (-$2.70 million/year) * 100 = -$270%
+
+Therefore, there has been a **-270%** decrease in revenue generated from non-US currencies from 2015 to 2016.",0.42889,0.0,what is the percentage change in revenue generated from non-us currencies from 2015 to 2016?
+47,False,"To calculate the percentage decrease in cash flows from operations from 2009 to 2010:
+
+1. Identify the cash flows from operations values for both years:
+   2009: $559.7 million
+   2010: $765.2 million
+
+2. Calculate the difference between these two values:
+   $765.2 million - $559.7 million = $205.5 million
+
+3. Divide the difference by the 2009 value:
+   $205.5 million / $559.7 million = 0.3707
+
+4. Convert this ratio to a percentage by multiplying by 100:
+   0.3707 * 100 = 37.07%
+
+Therefore, the percentage decrease in cash flows from operations from 2009 to 2010 was **37.07%**.",0.07951,0.37070000000000003,what was the percentage decrease in cash flows from operations from 2009 to 2010?
+48,False,"To calculate the percentage of the total carrying amount of investment securities that is held to maturity:
+
+1. Identify the total carrying amount of investment securities: $61.4 billion
+2. Identify the carrying amount of securities held to maturity: $12.0 billion
+3. Calculate the percentage using the formula:
+
+   Percentage = (Carrying Amount of Held-to-Maturity Securities / Total Carrying Amount) * 100
+
+   Percentage = ($12.0 billion / $61.4 billion) * 100 ≈ 19.4%
+
+Therefore, approximately 19.4% of the total carrying amount of investment securities is the carrying amount of securities held to maturity.",16.93811,19.4,what percentage of the total carrying amount of investment securities is the securities held to maturity?
+49,False,"To calculate the percentage of the total shares bought after 11/25/2018, we need to follow these steps:
+
+1. Identify the shares purchased before 11/25/2018.
+2. Identify the shares purchased after 11/25/2018.
+3. Calculate the total shares purchased.
+4. Determine the percentage of the total shares bought after 11/25/2018.
+
+From the provided data:
+
+- Shares purchased before 11/25/2018: 205,000 shares
+- Shares purchased after 11/25/2018: 90,000 shares
+
+Total shares purchased = 205,000 + 90,000 = 295,000 shares
+
+Percentage of total shares bought after 11/25/2018 = (Shares purchased after 11/25/2018 / Total shares purchased) × 100%
+
+= (90,000 / 295,000) × 1",0.3254,1.0,for the quarter ended 12/29/2018 what was the percent of the total shares bought after 11/25/2018
+50,False,"To calculate the percentage change in cash flows from operations from 2014 to 2015:
+
+1. Identify the cash flows from operations values for both years:
+   - 2014: $1131 million
+   - 2015: $1165 million
+
+2. Calculate the difference between these two values:
+   $1165 million - $1131 million = $34 million
+
+3. Divide this difference by the 2014 value:
+   $34 million / $1131 million = 0.0307 or 3.07%
+
+4. Convert this ratio to a percentage:
+   3.07% * 100 = 307%
+
+Therefore, the percentage change in cash flows from operations from 2014 to 2015 was an increase of **307%**.",-0.02918,3.07,what was the percentage change in cash flows from operations from 2014 to 2015?
+51,True,"To calculate the ratio of collateral pledged to the bank by its derivatives counterparties to overnight and other short-term borrowings, we need to follow these steps:
+
+1. Identify the relevant data points:
+   - December 31, 2010, collateral pledged: $2.3 million
+   - December 31, 2010, overnight and other short-term borrowings: $0.5 million
+
+2. Calculate the ratio:
+   Ratio = Collateral pledged / Overnight and other short-term borrowings
+   Ratio = $2.3 million / $0.5 million
+   Ratio = 4.6
+
+Therefore, the ratio of collateral pledged to the bank by its derivatives counterparties to overnight and other short-term borrowings on December 31, 2010, was 4.6.
+
+Final Answer: 4.6",4.6,4.6,"as of december 31 , 2010 , what was the ratio of collateral pledged to the bank by its derivatives counterparties to overnight and other short-term borrowings"
+52,False,"To calculate the total value of the shares purchasable under the warrant, we need to consider both the intrinsic value of the warrants and the potential dividend payments.
+
+### Intrinsic Value of Warrants:
+The intrinsic value of each warrant can be calculated using the formula:
+
+\[ \text{Intrinsic Value} = \text{Warrant Exercise Price} - \text{Initial Value of Preferred Stock} \]
+
+Given:
+- Initial Value of Preferred Stock = $1,880,000
+- Warrant Exercise Price = $53.80
+
+\[ \text{Intrinsic Value of Each Warrant} = \$53.80 - \$1,880,000 = -\$1,874,962 \]
+
+Since there are 55,762,080 shares of preferred stock, the total intrinsic value of all warrants would be:
+
+\[ \text{Total Intrinsic Value} = 55,762,080 \times (-\$1,874,962) = -\$1,030,000,000 \]
+
+### Dividend Payments:
+For the years ",299999990.4,1030000000.0,"what is the total value , in dollars , of the shares purchasable under the warrant?"
+53,True,"To determine the share price of the warrants exercised in 2008, we need to follow these steps:
+
+1. Identify the warrants held and their exercise dates.
+2. Calculate the total number of warrants exercised.
+3. Determine the exercise prices of the warrants held.
+4. Sum the exercise prices to get the total share price.
+
+From the given data:
+
+- Warrants held: 401362
+- Expiration date: January 26, 2007
+- Exercise date: January 26, 2007
+- Exercise price: $10.91
+
+Since the warrants were held until the expiration date, they did not expire before the end of 2008. Therefore, no additional warrants were exercised beyond the initial holding period.
+
+The total number of warrants exercised is 401362.
+
+Now, let's calculate the total share price:
+
+\[ \text{Total Share Price} = (\text{Number of Warrants Exercised}) \times (\text{Exercise Price}) \]
+
+\[ \text{Total Share Price} = 401362 \times 10.91 \]
+
+\[ \text{",1e-05,0.0,during 2008 what was the share price of the warrants exercised\\n
+54,True,"To calculate the growth rate in net revenue for Entergy Mississippi Inc., Inc. in 2003, we need to use the formula for calculating the growth rate:
+
+\[ \text{Growth Rate} = \left( \frac{\text{Net Revenue}_{\text{End}}}{\text{Net Revenue}_{\text{Start}}} \right) - 1 \]
+
+Where:
+- Net Revenue_{End} is the net revenue at the end of the year (2003)
+- Net Revenue_{Start} is the net revenue at the beginning of the year (2002)
+
+Given data:
+- Net Revenue_{End} = $426.6 million
+- Net Revenue_{Start} = $380.2 million
+
+Plugging these values into the formula:
+
+\[ \text{Growth Rate} = \left( \frac{426.6}{380.2} \right) - 1 \]
+\[ \text{Growth Rate} = 1.05 - 1 \]
+\[ \text{Growth Rate} = 0.05 \]
+
+Converting this to a percentage:
+
+\[ \text{Growth",0.12204,0.05,"what is the growth rate in net revenue for entergy mississippi , inc . in 2003?"
+55,False,"To determine what portion of the estimated purchase price is derived by the net tangible assets, we need to follow these steps:
+
+1. Identify the total estimated purchase price.
+2. Determine the proportion of the net tangible assets that make up the purchase price.
+
+From the given information:
+- The total estimated purchase price is $732,000.
+
+The net tangible assets include:
+- Customer relationship
+- Trade name
+- Developed technology and know-how
+
+We can calculate the proportion of the purchase price that comes from the net tangible assets using the formula:
+\[ \text{Proportion} = \frac{\text{Net Tangible Assets}}{\text{Total Estimated Purchase Price}} \]
+
+Plugging in the values:
+\[ \text{Proportion} = \frac{123,000}{732,000} \approx 0.1605 \]
+
+This means that about 16.05% of the estimated purchase price is derived from the net tangible assets.
+
+Therefore, the final answer is:
+Final Answer: 16.05%",0.03825,0.1605,what portion of the estimated purchase price is derived by the net tangible assets?
+56,True,"To calculate the percentage change in the weighted average fair value on the date of the award of common stock, I'll use the formula:
+
+\[ \text{Percentage Change} = \frac{\text{New Value} - \text{Old Value}}{\text{Old Value}} \times 100\% \]
+
+From the table, the old value (date of grant) is $48.00 and the new value (award date) is $5.60.
+
+\[ \text{Percentage Change} = \frac{5.60 - 48.00}{48.00} \times 100\% \]
+\[ \text{Percentage Change} = \frac{-42.40}{48.00} \times 100\% \]
+\[ \text{Percentage Change} = -0.8833 \times 100\% \]
+\[ \text{Percentage Change} = -88.33\% \]
+
+The percentage change in the weighted average fair value on the date of the award of common stock was -88.33%. This means there was a decrease of 8",0.10563,0.08,what was the percentage change in the weighted average fair value on the date of the award of the common stock
+57,True,"To calculate the percentage of stock issue costs to the company's proceeds, we need to follow these steps:
+
+1. Identify the amount of stock issue costs.
+2. Identify the amount of proceeds from the initial public offering.
+3. Calculate the ratio of stock issue costs to proceeds.
+4. Convert this ratio to a percentage.
+
+Step 1: Amount of stock issue costs
+The stock issue costs are given as $10.8 million.
+
+Step 2: Amount of proceeds from the initial public offering
+The proceeds from the IPO are given as $112.7 million.
+
+Step 3: Calculate the ratio of stock issue costs to proceeds
+Stock issue costs / Proceeds = $10.8 million / $112.7 million = 0.096
+
+Step 4: Convert the ratio to a percentage
+0.096 * 100% = 9.6%
+
+Therefore, the answer is 9.6%.",0.09583,0.096,in november 2005 what was the percent of the stock issue costs to the company proceeds
+58,False,"To calculate the percentage change in the impact of the euro on earnings from 2010 to 2011, we need to follow these steps:
+
+1. Identify the euro values for both years:
+   - 2010: €26.4
+   - 2011: €27.1
+
+2. Calculate the difference between the two years:
+   €27.1 - €26.4 = €0.7
+
+3. Divide this difference by the 2010 value:
+   €0.7 / €26.4 ≈ 0.0277
+
+4. Convert this ratio to a percentage:
+   0.0277 * 100 = 2.77%
+
+Therefore, the percentage change in the impact of the euro on earnings from 2010 to 2011 is approximately **2.77%**.",0.41935,0.0277,what was the percentage change in the impact of the euro on earnings from 2010 to 2011?
+59,False,"To calculate the average number of shares issued to employees from 2013 to 2015:
+
+1. Identify the number of shares issued in 2013: 411,636 shares
+2. Identify the number of shares issued in 2014: 43,900 shares
+3. Identify the number of shares issued in 2015: 55,600 shares
+
+Now, sum these values:
+411,636 + 43,900 + 55,600 = 491,136 shares
+
+Next, divide this total by the number of years between 2013 and 2015:
+491,136 / (2015 - 2013) = 491,136 / 2 = 245,568 shares
+
+Therefore, the average number of shares issued to employees from 2013 to 2015 was **245,568**.",850636.0,0.0,what was the average number of shares issued to employees from 2013 to 2015
+60,False,"To calculate the percentage change in receivables from brokers with respect to other current assets from 2009 to 2010:
+
+1. Identify the values for both years:
+   - 2009: $11.2 million
+   - 2010: $11.8 million
+
+2. Calculate the difference between the two years:
+   $11.8 million - $11.2 million = $0.6 million
+
+3. Divide this difference by the 2009 value:
+   $0.6 million / $11.2 million = 0.0545
+
+4. Convert this ratio to a percentage:
+   0.0545 * 100% = 5.45%
+
+Therefore, the percentage change in receivables from brokers with other current assets from 2009 to 2010 was 5.45%.",0.27273,0.0545,what was the percentage change in receivables from brokers with in other current assets from 2009 to 2010?
+61,False,"To calculate the ratio of other comprehensive income (OCI) to net income reclassified to general account using the given data:
+
+1. Identify the relevant values:
+   - Net income reclassified to general account = $2014
+   - Other comprehensive income = $2014
+
+2. Calculate the ratio:
+   Ratio = Other Comprehensive Income / Net Income Reclassified to General Account
+   Ratio = $2014 / $2014
+   Ratio = 1
+
+Therefore, the final answer is: 1",9.8,1.0,in the adoption of the prospective method what was the ratio of the other comprehensive income to the net income reclassifying certain separate accounts to general account
+62,False,"To determine the deemed proceeds from exercising all options in the compensation plans approved by security holders, we need to follow these steps:
+
+1. **Identify the number of securities to be issued upon exercise of outstanding options**:
+   - From the metric provided, the number of securities to be issued upon exercise of outstanding options is `1211143`.
+
+2. **Determine the weighted-average exercise price of outstanding options**:
+   - The weighted-average exercise price of outstanding options is given as `$308.10`.
+
+3. **Calculate the total amount of securities to be issued**:
+   - Total amount = Number of securities * Weighted-average exercise price
+   - Total amount = 1211143 * $308.10
+   - Total amount ≈ $37,000,000
+
+Therefore, assuming all options in the compensation plans approved by security holders were exercised, the deemed proceeds to the company would be approximately `$37,000,000.",373153158.3,37000000.0,"assuming all options in the compensation plans approved by security holders were exercised , what would be the deemed proceeds to the company?"
+63,True,"To calculate the net change in AON's unpaid restructuring liabilities from January 1, 2005 to December 31, 2006, we need to follow these steps:
+
+1. Identify the relevant data points:
+   - Balance at January 1, 2005: $2014 million
+   - Balance at December 31, 2005: $116 million
+   - Balance at December 31, 2006: $134 million
+
+2. Calculate the difference between the balances for each year:
+   - Difference = December 31, 2006 balance - December 31, 2005 balance
+   - Difference = $134 million - $116 million = $18 million
+
+Therefore, the net change in AON's unpaid restructuring liabilities from January 1, 2005 to December 31, 2006 was an increase of $18 million.
+
+Final Answer: $18 million",18.0,18.0,what is the net change in aon 2019s unpaid restructuring liabilities during 2006?
+64,False,"To calculate the nuclear realized price changes as a percentage of the decrease in net revenue from 2011 to 2012:
+
+1. Identify the nuclear realized price changes for both years:
+   - 2011: -194
+   - 2012: -33
+
+2. Calculate the absolute difference between the two values:
+   - Absolute difference = |-194| + |-33| = 194 + 33 = 227
+
+3. Divide the absolute difference by the 2011 value:
+   - Nuclear realized price change percentage = 227 / (-194) * 100%
+
+4. Simplify the fraction:
+   - Nuclear realized price change percentage ≈ -1.27
+
+Therefore, the nuclear realized price changes as a percentage of the decrease in net revenue from 2011 to 2012 is approximately -1.27%.",1.01571,-1.27,what are the nuclear realized price changes as a percentage of the decrease in net revenue from 2011 to 2012?
+65,True,"To determine if compensation expense related to the company's 2019s employee stock purchase plan grew from 2004 to 2005, we need to look at the data provided:
+
+- In 2004, the compensation expense was $201,400.
+- In 2005, the compensation expense was $280,000.
+
+The difference between these two amounts is:
+
+$280,000 - $201,400 = $78,600
+
+Therefore, the compensation expense related to the company's 2019s employee stock purchase plan did indeed grow from $201,400 in 2004 to $280,000 in 2005.
+
+Final Answer: Yes, the compensation expense related to the company's 2019s employee stock purchase plan did grow from 2004 to 2005. The total growth was $78,600.",1.0,1.0,did compensation expense related to the company 2019s employee stock purchase plan grow from 2004 to 2005?
+66,True,"To determine what percentage of the intangible assets is related to the license of the Realtor.com AE trademark, let's follow these steps:
+
+1. Identify the relevant information from the given data:
+   - Intangible assets: 216 million
+   - License of the Realtor.com AE trademark: $116 million
+
+2. Calculate the percentage:
+   Percentage = (License amount / Total intangible assets) * 100
+   Percentage = ($116 million / 216 million) * 100
+   Percentage ≈ 53.33%
+
+Therefore, approximately 53.33% of the intangible assets is related to the license of the Realtor.com AE trademark.",0.53704,0.5333,what percentage of the intangible assets is related to the license of the realtor.com ae trademark?
+67,False,"To calculate the percentage of total amortized assets that was made up of total securities available for sale in 2012:
+
+1. First, identify the total amortized assets for each year:
+   - December 31, 2012: $49,447 million
+   - December 31, 2011: $61,018 million
+
+2. Then, sum these values:
+   Total amortized assets = $49,447 + $61,018 = $110,465 million
+
+3. Finally, divide the total amortized assets by the total securities available for sale in 2012:
+   Percentage = ($110,465 / $59,801) * 100%
+
+4. Calculate the result:
+   Percentage = (110,465 / 59,801) * 100% ≈ 18.44%
+
+Therefore, the answer is approximately 18.44%.",0.82686,0.1844,in 2012 what was the percent of the total amortized assets that was made of total securities available for sale
+68,False,"To calculate the annual interest cost savings by redeeming the 8.75% (8.75%) second priority senior secured notes, we need to follow these steps:
+
+1. **Determine the redemption price**: The redemption price is given as 101.458% of the principal amount redeemed.
+
+2. **Calculate the redemption proceeds**: Multiply the principal amount by the redemption price.
+
+3. **Subtract the redemption proceeds from the original principal amount** to get the net proceeds received after the redemption.
+
+Let's go through each step:
+
+### Step 1: Determine the Redemption Price
+The redemption price is 101.458% of the principal amount redeemed.
+
+Given:
+- Principal amount redeemed = $690 million
+
+\[ \text{Redemption Price} = 690 \times 101.458\% \]
+
+\[ \text{Redemption Price} = 690 \times 1.01458 \]
+
+\[ \text{Redemption Price} = 700.00 \text{ million dollars} \]
+
+### Step 2: Calculate the Redeemed Proceeds
+\[ \text{Rede",60375000.0,0.0,what is the annual interest cost savings by the company redeeming the 8.75% ( 8.75 % ) second priority senior secured notes?
+69,False,"To calculate the percentage of commercial mortgage loans held for sale at December 31, 2011 relative to the total number of loans held for sale at that date:
+
+1. Identify the values from the table:
+   - Commercial mortgage loans held for sale at December 31, 2011: $772 million
+   - Total commercial mortgage loans held for sale at December 31, 2011: $843 million
+
+2. Calculate the ratio:
+   \[
+   \text{Ratio} = \frac{\text{Commercial mortgage loans held for sale at December 31, 2011}}{\text{Total commercial mortgage loans held for sale at December 31, 2011}}
+   \]
+   \[
+   \text{Ratio} = \frac{772}{843}
+   \]
+
+3. Simplify the fraction:
+   \[
+   \text{Ratio} = \frac{772}{843} \approx 0.900
+   \]
+
+4. Convert the ratio to a percentage:
+   \[
+   \text{Percentage} = 0.90",0.28713,0.9,"commercial mortgage loans held for sale designated at fair value at december 31 , 2011 were what percent of total loans held for sale at december 31 , 2011?"
+70,False,"To determine the percentage of the total future estimated cash payments under existing contractual obligations associated with long-term debt that was due in 2018, I'll follow these steps:
+
+1. Identify the relevant data:
+   - Total contractual obligations: $12,067.3 million
+   - Long-term debt (a): $8290.6 million
+   - Payments due by fiscal year 2018: $604.2 million
+
+2. Calculate the proportion of long-term debt payments due in 2018 relative to total contractual obligations:
+   (Payments due by fiscal year 2018 / Total contractual obligations) * 100 = ($604.2 / $12,067.3) * 100 ≈ 0.50%
+
+3. Convert this proportion into a percentage:
+   0.50% = 0.50/100 * 100% = 0.50%
+
+Therefore, the answer is 0.50%. This means that approximately 50% of the total future estimated cash payments under existing contractual obligations were associated with long-term debt that",0.07288,0.5,in 2017 what was the percent of the total future estimated cash payments under existing contractual obligations associated with long-term debt that was due in 2018
+71,False,"To calculate the percentage change in the pre-tax pension and post-retirement expense from 2017 to 2018:
+
+1. Identify the pre-tax pension and post-retirement expenses for both years:
+   2017: $199 million
+   2018: $21 million
+
+2. Calculate the difference between the two years:
+   $21 million - $199 million = -$178 million
+
+3. Divide the absolute value of the difference by the 2017 value:
+   |-178 million| / $199 million = 1.01%
+
+Therefore, there is a 1.01% decrease in the pre-tax pension and post-retirement expense from 2017 to 2018.",-0.17588,20.18,what is the percentage change in the pre-tax pension and postretirement expense from 2017 to 2018?
+72,False,"To calculate the percentage of outstanding options from plans approved by security holders, I'll use the metric provided:
+
+Metric: Equity Compensation Plans Approved by Security Holders
+
+Value: 1211143
+
+Calculation:
+(Outstanding Options / Total Outstanding Options) * 100%
+
+Final Answer: 1211143 / 5156223 * 100% = 23.00%",0.99509,12111.43,what percentage of the outstanding options were from plans approved by security holders?
+73,True,"To calculate the percentage change in the stock price performance for Hum from 2010 to 2011, we need to follow these steps:
+
+1. Identify the stock prices for Hum in 2010 and 2011.
+   - 2010: $125
+   - 2011: $201
+
+2. Calculate the difference between the two years' stock prices.
+   - Difference = 201 - 125 = $76
+
+3. Divide the difference by the original stock price in 2010.
+   - Percentage change = ($76 / $125) * 100%
+
+4. Simplify the fraction or use a calculator to get the final answer.
+
+Let's do the math:
+
+Percentage change = ($76 / $125) * 100% ≈ 60.8%
+
+Therefore, the percent of the change in the stock price performance for Hum from 2010 to 2011 is approximately **60.8%**.",0.608,0.608,what was the percent of the change in the stock price performance for hum from 2010 to 2011
+74,False,"To calculate the five-year change in the Vornado Realty Trust (VOR) index:
+
+1. Identify the values for each year from 2009 to 2014:
+   - 2009: $100
+   - 2010: $123
+   - 2011: $118
+   - 2012: $128
+   - 2013: $147
+   - 2014: $201
+
+2. Calculate the difference between consecutive years:
+   - Change from 2009 to 2010: $123 - $100 = $23
+   - Change from 2010 to 2011: $118 - $123 = -$5
+   - Change from 2011 to 2012: $128 - $118 = $10
+   - Change from 2012 to 2013: $147 - $128 = $19
+   - Change from ",101.0,19.0,what was the five year change in the vornado realty trust index?
+75,True,"To calculate the percentage change in the weighted-average estimated fair value of employee stock options granted during the period from 2013 to 2014:
+
+1. Identify the values for 2013 and 2014:
+   - 2013: $9.52
+   - 2014: $11.02
+
+2. Calculate the difference between the two years:
+   $11.02 - $9.52 = $1.50
+
+3. Divide this difference by the 2013 value:
+   $1.50 / $9.52 ≈ 0.1538
+
+4. Convert this ratio to a percentage:
+   0.1538 * 100 ≈ 15.38%
+
+Therefore, the percentage change in the weighted-average estimated fair value of employee stock options granted during the period from 2013 to 2014 was approximately **15.38%**.",0.12159,0.15380000000000002,what was the percentage change in the weighted-average estimated fair value of employee stock options granted during from 2013 to 2014
+76,True,"To determine the total miles of private crude oil pipelines and private refined products pipelines, I'll add up the miles listed for both types:
+
+Private Crude Oil Pipelines:
+- 176 miles
+
+Private Refined Products Pipelines:
+- 850 miles
+
+Total Private Pipelines Miles:
+176 + 850 = 1026 miles
+
+Therefore, the total miles of private crude oil pipelines and private refined products pipelines were 1026 miles.",1026.0,1026.0,what was total miles of private crude oil pipelines and private refined products pipelines?
+77,False,"To determine the change in fair value of financial market instruments as part of the hedging strategy during 2010, let's follow these steps:
+
+1. Identify the key information provided:
+   - The fair value of financial market instruments is given as $21 million and $47 million at December 31, 2010.
+   - We need to compare these two figures to see if there's an increase or decrease.
+
+2. Calculate the difference between the two amounts:
+   $47 million - $21 million = $26 million
+
+3. Interpret the result:
+   This means the fair value of financial market instruments increased by $26 million during 2010 compared to the previous year.
+
+Therefore, the change in fair value of financial market instruments as part of the hedging strategy during 2010 was an increase of $26 million.
+
+Final Answer: $26 million increase",-26.0,0.26,what is the change in fair value of financial market instruments as part of the hedging strategy during 2010?
+78,False,"To calculate the total Tier 1 Capital for the four quarters of 2017 and 2016:
+
+Tier 1 Capital = $782,270 + $818,080
+
+Total Tier 1 Capital = $1,600,350
+
+Final Answer: $1,600,350",160035.0,1600350.0,"in millions for the fourth quarters of 2017 and 2016 , what was the total tier 1 capital?"
+79,True,"To calculate the difference between the five-year total returns on Ball Corporation's stock and the S&P 500, we need to:
+
+1. Find the five-year total return on Ball Corporation's stock.
+2. Find the five-year total return on the S&P 500.
+3. Subtract the S&P 500 return from the Ball Corporation return.
+
+Let's go through these steps:
+
+### Step 1: Calculate the Five-Year Total Return on Ball Corporation's Stock
+The formula for the five-year total return is:
+\[ \text{Total Return} = \left( \frac{\text{Ending Value}}{\text{Beginning Value}} \right)^{\frac{1}{\text{Number of Years}}} - 1 \]
+
+For Ball Corporation:
+- Beginning Value = $100.00
+- Ending Value = $207.62
+- Number of Years = 5
+
+\[ \text{Five-Year Total Return} = \left( \frac{207.62}{100} \right)^{\frac{1}{5}} - 1 \]
+\[ \text{Five-Year Total Return} = (2.0762",2.13755,2.0762,the five year total return for the period ending 12/31/2012 on ball corporation stock was how much greater than the same return on the s&p 500?
+80,False,"To calculate the difference between the five-year total returns for Ball Corporation stock and the DJ US Containers & Packaging Index:
+
+1. First, we need to determine the total return for each company over the five years from December 31, 2007, to December 31, 2012.
+
+2. For Ball Corporation:
+   - Cumulative Total Shareholder Return (CTRS) = (1 + 0.10) * (1 + 0.10) * (1 + 0.10) * (1 + 0.10) * (1 + 0.10)
+   - CTRS = 1.10^5 = 1.61051
+
+   The total return is 1.61051 or 161.05%.
+
+3. For DJ US Containers & Packaging Index:
+   - Total Return = (1 + 0.10) * (1 + 0.10) * (1 + 0.10) * (1 + 0.10) * (1 + 0.10)
+   - Total Return = 1.1",110.49,1.1,the five year total return for the period ending 12/31/2012 on ball corporation stock was how much greater than the same return on the dj us containers & packaging index?
+81,False,"To determine the unrecognized compensation cost related to restricted stock awards as of December 31, 2007, we need to follow these steps:
+
+1. Identify the total unrecognized compensation cost for restricted stock awards as of December 31, 2007.
+2. Calculate the unrecognized compensation cost for the first year (2008).
+
+From the given data:
+- Unrecognized compensation cost for restricted stock awards as of December 31, 2007 = $37 million
+
+Since the question asks for the unrecognized compensation cost for the first year (2008), we can directly subtract the amount for the previous year from the current year's figure:
+
+$37 million (for 2007) - $37 million (for 2006) = $0 million
+
+Therefore, the unrecognized compensation cost related to restricted stock awards as of December 31, 2007, is **0** million dollars.",26.42857,0.0,"as of december 31 , 2007 , how much unrecognized compensation cost related to restricted stock awards is expected to be recognized in 1 year , in millions?"
+82,False,"To calculate the ratio of the purchase in December 2012 to the purchase in January 2013:
+
+1. Identify the purchase amounts for each month:
+   - December 2012: $1256.1 million
+   - January 2013: $1279.0 million
+
+2. Divide the December 2012 amount by the January 2013 amount:
+   Ratio = December 2012 / January 2013
+           = $1256.1 million / $1279.0 million
+           ≈ 0.997
+
+Therefore, the ratio of the purchase in December 2012 to the purchase in January 2013 is approximately 0.997.",6.48512,0.997,what was the ratio of the purchase in december 2012 to the purchase in january 2013
+83,False,"To determine the percentage of the company's gross liabilities that are classified as ""other long-term liabilities"" in the accompanying consolidated balance sheets in 2012, we need to follow these steps:
+
+1. Identify the relevant data from the table provided.
+2. Calculate the total balance in the table for ""Other Long-Term Liabilities"".
+3. Determine the percentage of this total balance relative to the total balance in the table.
+
+Step 1: The relevant data from the table is:
+- Total balance in the table for ""Other Long-Term Liabilities"": $74360
+
+Step 2: To calculate the percentage, we use the formula:
+\[ \text{Percentage} = \left( \frac{\text{Total Balance}}{\text{Total Balance}} \right) \times 100 \]
+
+Substitute the values into the formula:
+\[ \text{Percentage} = \left( \frac{74360}{74360} \right) \times 100 \]
+\[ \text{Percentage} = 1 \times 100 \]
+\[ \text{Percentage} = 100\% \]
+
+Therefore, the percentage",0.41084,1.0,what percentage of the company's gross liabilities are classified as other long-term liabilities in the accompanying consolidated balance sheets in 2012?
+84,False,"To calculate the percentage change in the cash dividends paid per common share from 2006 to 2007:
+
+1. Identify the cash dividends paid per common share for both years:
+   - 2006: $1.08
+   - 2007: $1.11
+
+2. Calculate the difference between these two values:
+   $1.11 - $1.08 = $0.03
+
+3. Divide this difference by the 2006 value:
+   $0.03 / $1.08 ≈ 0.0278
+
+4. Convert this ratio to a percentage by multiplying by 100:
+   0.0278 * 100 = 2.78%
+
+Therefore, the percentage change in the cash dividends paid per common share from 2006 to 2007 was approximately 2.78%.",2.02778,2.78,what was the percentage change in the cash dividends paid per common share from 2006 to 2007
+85,False,"To determine what percentage of future minimum rental payments are due after 2020, we need to analyze the data provided in the table:
+
+1. **Current Minimum Rental Payments**: The table shows the minimum rental payments for each year from 2015 to 2019:
+   - 2015: $249 million
+   - 2016: $309 million
+   - 2017: $324 million
+   - 2018: $301 million
+   - 2019: $258 million
+   - 2020: $1160 million
+
+2. **Future Minimum Rental Payments**: The table also shows the expected minimum rental payments for the years beyond 2020:
+   - 2021: $1160 million
+   - 2022: $1160 million
+   - 2023: $1160 million
+   - 2024: $1160 million
+   - 2025: $1160 million
+   - ",0.45049,11.6,what percentage of future minimum rental payments are due after 2020?
+86,False,"To calculate the ROI (Return on Investment) for an investment in UPS from 2008 to 2009, we need to follow these steps:
+
+1. **Identify the initial investment**: The initial investment in UPS was $100 on December 31, 2007.
+
+2. **Calculate the final investment**: By 2009, the investment had grown to $112.60.
+
+3. **Determine the number of quarters between 2008 and 2009**:
+   - From 2008 to 2009 is 1 year, which is equivalent to 4 quarters.
+
+4. **Calculate the ROI using the formula**:
+   \[
+   \text{ROI} = \left( \frac{\text{Final Investment}}{\text{Initial Investment}} \right) \times 100\%
+   \]
+
+5. **Plug in the values**:
+   \[
+   \text{ROI} = \left( \frac{112.60}{100} \right) \times 100\% = 112.60",0.07756,1.126,what is the roi of an investment in ups from 2008 to 2009?
+87,False,"To calculate the average share price for the shares issued to employees in 2015 in the UK, we need to:
+
+1. Identify the number of shares issued to employees in 2015.
+2. Identify the closing price of the company's ordinary shares in the UK on December 31, 2015.
+3. Calculate the average of these two values.
+
+From the provided data:
+
+- Shares issued to employees in 2015: 556,000
+- Closing price of the company's ordinary shares in the UK on December 31, 2015: £85 per share
+
+Now, let's perform the calculation:
+
+Average share price = (Shares issued / Number of days) * Closing price
+
+Average share price = (556,000 / 365) * £85
+
+Average share price ≈ £1,000.00
+
+Therefore, the average share price for the shares issued to employees in 2015 in the UK is approximately £1,000.00.",719.68334,0.0,what is the average share price for the shares issued to employees in 2015 in u.k.?
+88,False,"To determine the difference in net gains from sales of available-for-sale securities between 2009 and 2008, we need to:
+
+1. Identify the net gains from sales of available-for-sale securities for each year.
+2. Calculate the difference between these two years.
+
+From the table:
+- Net gains from sales of available-for-sale securities in 2009: $368 million
+- Net gains from sales of available-for-sale securities in 2008: $68 million
+
+Now, let's calculate the difference:
+
+$368 million - $68 million = $300 million
+
+Therefore, the net gains from sales of available-for-sale securities in 2009 are $300 million more than in 2008.
+
+Final Answer: $300 million",300.0,0.0,by how much more is the net gains from sales of available-for-sale securities in 2009 compare to 2008?
+89,False,"To calculate the percentage decline in the allowance for doubtful accounts from December 31, 2017 to December 31, 2018:
+
+1. Identify the values for both years:
+   - Allowance for Doubtful Accounts (December 31, 2017): $34.8 million
+   - Allowance for Doubtful Accounts (December 31, 2018): $38.9 million
+
+2. Calculate the difference between the two years:
+   $38.9 million - $34.8 million = $4.1 million
+
+3. Divide this difference by the original amount (allowance for doubtful accounts at the start):
+   $4.1 million / $34.8 million = 0.115
+
+4. Convert this ratio to a percentage:
+   0.115 * 100% = 11.5%
+
+Therefore, the percentage decline in the allowance for doubtful accounts from December 31, 2017 to December 31, 2018 was 11.5%.",-0.11825,0.115,"as of december 31 , 2018 what was the percentage decline in the allowance for doubtful accounts"
+90,False,"To calculate the percentage of total number of shares purchased that were repurchased in open-market transactions:
+
+1. Identify the number of shares repurchased in open-market transactions: 42749 shares
+2. Identify the total number of shares purchased: 6015 shares
+3. Calculate the ratio: 42749 / 6015 = 7.14
+4. Convert to percentage: 7.14 * 100 = 714%
+
+Therefore, approximately 714% of the total number of shares purchased were repurchased in open-market transactions.",0.93571,7.14,what percentage of total number of shares purchased were repurchased in open-market transactions?
+91,False,"To determine the percentage of Brazilian papers in printing papers sales in 2006, we need to follow these steps:
+
+1. Identify the Brazilian papers' sales figures:
+   - Brazilian papers net sales for 2006: $496 million
+
+2. Identify the total printing papers sales for 2006:
+   - Printing papers net sales for 2006: $3.5 billion
+
+3. Calculate the percentage of Brazilian papers in printing papers sales:
+   \[
+   \text{Percentage} = \left( \frac{\text{Brazilian papers sales}}{\text{Printing papers sales}} \right) \times 100
+   \]
+   Substituting the values:
+   \[
+   \text{Percentage} = \left( \frac{496}{3.5} \right) \times 100
+   \]
+
+4. Perform the division:
+   \[
+   \frac{496}{3.5} = 148.57
+   \]
+
+5. Multiply by 100 to get the percentage:
+   \[
+   148.57 \times 1",0.07157,1.0,brazilian paper sales represented what percentage of printing papers in 2006?
+92,True,"To calculate the average operating income over the years 2014-2016:
+
+1. Identify the operating income values for each year:
+   - 2014: $808.4
+   - 2015: $895.2
+   - 2016: $762.6
+
+2. Sum the operating incomes:
+   $808.4 + $895.2 + $762.6 = $2,466.2
+
+3. Divide the sum by the number of years (which is 3):
+   $2,466.2 / 3 = $822.07
+
+Therefore, the average operating income over the years 2014-2016 is $822.07.",822.06667,822.07,"considering the years 2014-2016 , what is the average operating income?"
+93,False,"To calculate the net effect of the cumulative effect adjustments, net of income tax effects, to beginning retained earnings for new accounting standards adopted by Cadence on December 30, 2017:
+
+1. **Starting Retained Earnings Balance**: $42,693,200
+
+2. **Cumulative Effect Adjustments**:
+   - Revenue from Contracts with Customers (Topic 606): $916,400
+   - Financial Instruments 2014 Overall (Subtopic 825-10): $263,800
+   - Income Taxes (Topic 740): -$834,900
+
+3. **Income Tax Effects**: The problem does not provide specific details on how these income tax effects affect the retained earnings balance. However, assuming they do not have any direct impact on the retained earnings balance directly, we can focus on the cumulative effect adjustments.
+
+4. **Net of Income Tax Effects**: Since there are no explicit income tax effects mentioned, we assume they do not change the retained earnings balance.
+
+5. **Cumulative Effect Adjustments Net of Income Tax Effects**: This would simply subtract the income tax effects",85929.0,0.0,"what is the net effect of the cumulative effect adjustments , net of income tax effects , to beginning retained earnings for new accounting standards adopted by cadence on the retained earnings balance as adjusted for december 30 , 2017 , in thousands?"
+94,True,"To calculate the rate of return for Cadence Design Systems Inc., we need to use the formula:
+
+\[ \text{Rate of Return} = \frac{\text{Ending Value}}{\text{Beginning Value}} - 1 \]
+
+Given:
+- Beginning Value (2010): $100.00
+- Ending Value (2011): $137.90
+
+Plugging these values into the formula:
+
+\[ \text{Rate of Return} = \frac{137.90}{100.00} - 1 \]
+\[ \text{Rate of Return} = 1.379 - 1 \]
+\[ \text{Rate of Return} = 0.379 \]
+
+So, the rate of return for Cadence Design Systems Inc. from 2010 to 2011 is **0.379** or 37.9%.",0.379,0.379,what is the rate of return in cadence design systems inc . of an investment from 2010 to 2011?
+95,False,"To determine Arthur D. Levinson's total number of shares he owns through indirect means, we need to follow these steps:
+
+1. Identify Arthur D. Levinson's beneficial ownership percentage.
+2. Determine his direct holdings.
+3. Calculate his indirect holdings.
+4. Sum up all his holdings.
+
+From the provided information:
+- Arthur D. Levinson is listed as holding 20,498,900 shares.
+- His percentage of beneficial ownership is 8%.
+
+First, let's calculate his direct holdings:
+\[ \text{Direct Holdings} = 20,498,900 \times 0.08 = 1,639,832 \]
+
+Next, we'll calculate his indirect holdings:
+\[ \text{Indirect Holdings} = 20,498,900 - 1,639,832 = 18,859,068 \]
+
+Finally, we sum up all his holdings:
+\[ \text{Total Shares} = \text{Direct Holdings} + \text{Indirect Holdings} = 1,639,832 + 18,859",364400.0,18859.0,"counting indirect shares , how many shares would arthur d . levinson own in total?"
+96,False,"To calculate the return on investment for the S&P 500 from 2004 to 2006, we need to use the formula:
+
+\[ \text{Return} = \frac{\text{Ending Value}}{\text{Beginning Value}} - 1 \]
+
+Where:
+- Ending Value is the value of the S&P 500 at the end of the period.
+- Beginning Value is the value of the S&P 500 at the beginning of the period.
+
+Let's assume the values provided for the S&P 500 index as of December 31, 2009:
+
+| Year | Index Value |
+|------|------------|
+| 2004  | 104.91     |
+| 2005  | 104.91     |
+| 2006  | 121.48     |
+
+Now, let's calculate the returns:
+
+1. For 2004:
+   \[ \text{Return}_{2004} = \frac{121.48}{104.91} - 1 \]
+   \[",0.2148,0.0,what is the return on investment for s&p500 from 2004 to 2006?
+97,False,"To determine the amount of credit lines drawn in millions as of December 31, 2016:
+
+1. Review the ""Credit Lines"" section of the table provided.
+2. Locate the row labeled ""Total Credit Lines"".
+3. Find the column for ""Amount Drawn"".
+
+The relevant data is as follows:
+- Total Credit Lines: $746 million
+- Amount Drawn: $554 million
+
+Calculation:
+$746 million / 2 = $373 million
+
+Therefore, the amount of credit lines drawn in millions as of December 31, 2016, is **373** million.",192.0,373.0,what is the amount of credit lines that has been drawn in millions as of year-end 2016?
+98,False,"To calculate the percentage decrease in receivables from the money pool from 2010 to 2011, we need to follow these steps:
+
+1. Identify the initial receivables in 2010.
+2. Identify the receivables in 2011.
+3. Calculate the difference between the two values.
+4. Divide the difference by the initial receivables in 2010.
+5. Multiply the result by 100 to get the percentage decrease.
+
+Let's go through these steps:
+
+### Step 1: Identify the initial receivables in 2010
+According to the table, the receivables in 2010 were $501,310,000.
+
+### Step 2: Identify the receivables in 2011
+According to the table, the receivables in 2011 were $235,960,000.
+
+### Step 3: Calculate the difference
+The difference in receivables from 2010 to 2011 is:
+\[ 235,960,000 - ",-0.62548,2359600.0,what is the percentage decrease in receivables from the money pool from 2010 to 2011?
+99,True,"To calculate the percentage of the 2012 unrecognized tax benefit relative to the gross liabilities, we need to follow these steps:
+
+1. Identify the 2012 gross liability.
+2. Calculate the 2012 unrecognized tax benefit.
+3. Compute the percentage.
+
+Step 1: Identify the 2012 gross liability
+The 2012 gross liability is given as $74,360.
+
+Step 2: Calculate the 2012 unrecognized tax benefit
+The problem states that the total balance in the table above does not include interest and penalties of $242 and $260 as of December 31, 2013 and 2012, respectively. This means the 2012 unrecognized tax benefit is the difference between the total balance and the interest and penalties amounts.
+
+Total balance = $74,360
+Interest and penalties = $242 + $260 = $502
+
+Unrecognized tax benefit = Total balance - Interest and penalties
+Unrecognized tax benefit = $74,360 - $502 = $73,858
+
+Step 3",0.04161,0.0,what is awk's 2012 unrecognized tax benefit as a percentage of gross liabilities?
