@@ -10,7 +10,7 @@ FinQA is a challenging benchmark requiring multi-step numerical reasoning over h
 - **Results:** Successfully increased execution accuracy from **9.0% to 26.0%** without fine-tuning or increasing model size.
 
 ## 📂 File Directory
-- `FinQA_new.ipynb`: The main research notebook containing evaluation loops and the Layer 3 implementation.
+- `FinQA_Qwen.ipynb`: The main research notebook containing evaluation loops and the Layer 3 implementation.
 - `Lqyer3_summary.txt`: Detailed write-up of the "Row-Header Injection" process and final findings.
 - `Layer2_summary.txt`: Forensic analysis of baseline failures and error taxonomy.
 - `finqa_layer3_final_results.csv`: Final predictions and correctness logs (26% Accuracy).
