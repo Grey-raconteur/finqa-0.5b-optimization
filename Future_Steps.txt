@@ -1,0 +1,46 @@
+
+================================================================================
+FINQA: STRATEGIC ROADMAP (In case of extended GPU Access)
+================================================================================
+Target: Enhancing Reasoning Depth and Operational Precision
+Proposed Timeline: 1 Week (GPU-Accelerated)
+
+--------------------------------------------------------------------------------
+1. PARAMETER-EFFICIENT FINE-TUNING (PEFT/LoRA)
+--------------------------------------------------------------------------------
+The current 0.5B model is limited by its lack of familiarity with the specific 
+Domain-Specific Language (DSL) used in FinQA programs. 
+- Strategy: Use QLoRA (Quantized Low-Rank Adaptation) to fine-tune specifically 
+  on the 'gold_program' sequences.
+- Objective: Resolve 'Operation Errors' where the model identifies correct 
+  numerical variables but applies the wrong operator or argument order.
+
+--------------------------------------------------------------------------------
+2. DIRECT PREFERENCE OPTIMIZATION (DPO) WITH EXECUTION FEEDBACK
+--------------------------------------------------------------------------------
+Align the model's internal weights with logical validity rather than surface-
+level text matching.
+- Strategy: Use the FinQA execution environment as a reward signal. Generate 
+  candidate programs and apply DPO to 'punish' programs resulting in execution 
+  errors and 'reward' those matching the exact gold answer.
+
+--------------------------------------------------------------------------------
+3. SPECIALIZED CROSS-ENCODER RETRIEVER
+--------------------------------------------------------------------------------
+Reclaim the model's 'Instruction Budget' by offloading retrieval to a smaller, 
+highly specialized component.
+- Strategy: Train a lightweight Cross-Encoder (e.g., DistilBERT-sized) to rank 
+  the relevance of table rows and text sentences against the query.
+- Objective: Feed only the Top-N relevant 'facts' to the LLM, allowing the 0.5B 
+  parameters to focus entirely on mathematical synthesis.
+
+--------------------------------------------------------------------------------
+4. KNOWLEDGE DISTILLATION FROM A TEACHER MODEL
+--------------------------------------------------------------------------------
+Embed high-level reasoning paths from significantly larger architectures into 
+the smaller model.
+- Strategy: Use a 'Teacher' model (e.g., Qwen-72B or GPT-4o) to generate 
+  detailed Chain-of-Thought (CoT) reasoning traces. 
+- Objective: Train the 0.5B model to mimic these logic paths, distilling 
+  reasoning density into the efficient architecture.
+
