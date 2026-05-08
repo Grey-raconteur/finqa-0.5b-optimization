@@ -11,11 +11,13 @@ FinQA is a challenging benchmark requiring multi-step numerical reasoning over h
 
 ## 📂 File Directory
 - `FinQA_Qwen.ipynb`: The main research notebook containing evaluation loops and the Layer 3 implementation.
-- `Lqyer3_summary.txt`: Detailed write-up of the "Row-Header Injection" process and final findings.
+- `Layer3_summary.txt`: Detailed write-up of the "Row-Header Injection" process and final findings.
 - `Layer2_summary.txt`: Forensic analysis of baseline failures and error taxonomy.
 - `finqa_layer3_final_results.csv`: Final predictions and correctness logs (26% Accuracy).
 - `finqa_results_all.csv`: Full evaluation results of the baseline model.
 - `finqa_ablation_detailed_results.csv`: Data from the ablation study (Full vs. Table-Only vs. Text-Only).
+-  `Future_Steps`: Things I would try to implement if I had GPU access for a week
+- `Presentation.pptx`: Short Presentation covering the details of the project
 
 ## 🔗 Attribution
 This project uses data from the **FinQA Paper**:
